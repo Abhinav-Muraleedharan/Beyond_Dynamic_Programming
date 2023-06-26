@@ -18,3 +18,7 @@ python cartpole_exact_simulation.py
 To run Approximate method for cart pole, run:
 
 python cartpole_approximate_simulation.py
+
+# Colab Implementation:
+Some parts of the code are implemented in this colab notebook: 
+https://colab.research.google.com/drive/1GKIMieKrYLX_YXnUOFuEvHwk8CH26zVu?usp=sharing
