@@ -1,4 +1,4 @@
-# Beyond_Dynamic_Programming
+# Beyond Dynamic Programming
 
 Code for the Paper: Beyond Dynamic Programming
 
