@@ -10,7 +10,7 @@ observation, info = env.reset(seed=42)
 k = 0
 N_action_horizon = 10
 for i in range(1000):
-    #compute faber schauder coefficients:
+    #compute faber schauder coefficient:
     if k == 0:
         a_0,a_1,coefficients = compute_faber_schauder_coefficients(observation,gamma,N,j_max,env)
         l_optimal, J_optimal,i_array,l_array,grad_array = compute_optimal_l(a_0,a_1,coefficients)
